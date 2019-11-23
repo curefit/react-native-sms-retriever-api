@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.smsretriever;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

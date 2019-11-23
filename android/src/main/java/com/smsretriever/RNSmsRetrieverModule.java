@@ -1,5 +1,5 @@
 
-package com.reactlibrary;
+package com.smsretriever;
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

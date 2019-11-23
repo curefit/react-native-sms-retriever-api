@@ -1,5 +1,5 @@
 
-package com.reactlibrary;
+package com.smsretriever;
 
 import java.util.ArrayList;
 import java.util.Collections;
